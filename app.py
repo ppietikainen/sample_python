@@ -11,4 +11,4 @@ class App():
 if __name__ == "__main__":
     app = App()
     app.calculate()
-    print(app.retrieve)
+    print app.retrieve
